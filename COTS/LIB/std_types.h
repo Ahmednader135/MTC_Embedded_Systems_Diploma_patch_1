@@ -26,5 +26,13 @@ typedef enum
 
 }State_t;
 
+/* State datatype */
+typedef enum
+{
+  SUCCESS,
+  ERROR
+
+}stdReturnType_t;
+
 
 #endif
